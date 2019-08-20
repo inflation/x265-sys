@@ -1,5 +1,9 @@
 [package]
 name = "x265-sys"
+description = "Raw bindings of x265"
+repository = "https://github.com/inflation/x265-sys"
+readme = "README.md"
+license = "GPL-3.0-or-later"
 version = "0.1.0"
 authors = ["Inflation <hypernovagama@gmail.com>"]
 edition = "2018"
